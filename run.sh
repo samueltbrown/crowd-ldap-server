@@ -1,5 +1,5 @@
 #!/bin/sh
-JAR=target/crowd-ldap-server-1.0.2-SNAPSHOT.jar
+JAR=target/crowd-ldap-server-1.0.4.jar
 
 # Apache DS Settings
 FIXADS="-Duser.language=en -Duser.country=US"
